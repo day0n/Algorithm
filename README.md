@@ -1,5 +1,5 @@
 # Algorithm
-使用cpp实现一些经典算法
+算法介绍和问题实现
 
 - backtracking
 
@@ -10,3 +10,15 @@
   回朔算法解题
 
   
+
+
+
+**to do**
+
+待学习算法
+
+- [ ] Greedy-algorithm
+- [ ] Dynamic-programming(DP)
+
+
+
