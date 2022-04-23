@@ -9,7 +9,9 @@
 
   回朔算法解题
 
-  
+  该问题就是通过一步步尝试，每到一个节点发现此路不通，便回溯回上一个阶段。
+
+  ![在这里插入图片描述](https://tva1.sinaimg.cn/large/e6c9d24ely1h1gclqtidtj20k30hp76k.jpg)
 
 
 
@@ -21,4 +23,6 @@
 - [ ] Dynamic-programming(DP)
 
 
+
+*增加了二分算法实现以及具体细节*
 
